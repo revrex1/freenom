@@ -1,6 +1,5 @@
 <div align="center">
 <h1>Freenom：freenom域名自动续期</h1>
-一定要家乙嫌疑啊协议协议
 [![Build Status](https://img.shields.io/badge/build-passed-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/build-status/master)
 [![Php Version](https://img.shields.io/badge/php-%3E=7.2-brightgreen.svg?style=for-the-badge)](https://secure.php.net/)
 [![Scrutinizer Code Quality](https://img.shields.io/badge/scrutinizer-9.31-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/?branch=master)
@@ -307,12 +306,7 @@ $ cd /data/wwwroot/freenom/ && php run
 > 
 > 认真是我们参与这个社会的方式，认真是我们改变这个社会的方式。  ——李志
 
-### ❤  捐赠 Donate
-如果你觉得本项目真的有帮助到你并且想回馈作者，感谢你的捐赠。
-#### PayPal: [https://www.paypal.me/mybsdc](https://www.paypal.me/mybsdc)
-> Every time you spend money, you're casting a vote for the kind of world you want. -- Anna Lappe
 
-![pay](https://s2.ax1x.com/2020/01/31/1394at.png "Donate")
 
 ![每一次你花的钱都是在为你想要的世界投票。](https://s2.ax1x.com/2020/01/31/13P8cF.jpg)
 
